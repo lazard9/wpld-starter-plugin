@@ -1,0 +1,22 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Node
+node_modules/
+
+# Composer (ako koristiš Composer u pluginu)
+vendor/
+composer.lock
+
+# Build
+/dist/
+build/
+*.log
+
+# Others
+.env
